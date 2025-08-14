@@ -8,7 +8,7 @@ if test -z "${ISSUER}"; then
 
 if [ "$1" != "$2" ]; then
  echo "Issuer \"${ISSUER}\" error!"
- echo "Expected: \"$3\""
- echo "Actual:   \"$2\""
+ echo "Expected: \"$2\""
+ echo "Actual:   \"$1\""
  exit 1
 fi

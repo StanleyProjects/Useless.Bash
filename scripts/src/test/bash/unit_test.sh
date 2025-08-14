@@ -5,5 +5,6 @@ asserts="${tests}/asserts"
 useless='scripts/src/main/bash'
 
 . $tests/one_test.sh
+. $tests/two_test.sh
 
 echo 'All tests were successful.'
