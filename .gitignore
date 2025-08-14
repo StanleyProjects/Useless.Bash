@@ -2,5 +2,6 @@
 !/.github
 !/scripts
 !.gitignore
+!assemble.sh
 !LICENSE
 !README.md
