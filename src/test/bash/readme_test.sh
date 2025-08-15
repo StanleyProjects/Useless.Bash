@@ -1,6 +1,6 @@
 #!/usr/local/bin/bash
 
-ISSUER='scripts/build/yml/metadata.yml'
+ISSUER='build/yml/metadata.yml'
 . $asserts/file.sh "${ISSUER}"
 
 VERSION="$(yq -erM .version "${ISSUER}")" || exit 1
