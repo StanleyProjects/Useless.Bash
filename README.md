@@ -3,4 +3,4 @@ A few useless Bash scripts.
 
 ---
 
-GitHub [0.1.8](https://github.com/StanleyProjects/Useless.Bash/releases/tag/0.1.8) release
+GitHub [0.2.0](https://github.com/StanleyProjects/Useless.Bash/releases/tag/0.2.0) release
